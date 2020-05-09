@@ -1,0 +1,17 @@
+[
+  {
+    "originUrl": "b.com.cn/origin1",
+    "mockUrl": "https://query.aliyun.com/rest/delivery.service.engine?url=https://market.aliyun.com/data",
+    "proxy": true
+  },
+  {
+    "originUrl": "b.com.cn/origin2",
+    "mockUrl": "https://query.aliyun.com/rest/aliyun-config.ace-services-module-list?timestamp=1589007812483",
+    "proxy": false
+  },
+  {
+    "originUrl": "b.com.cn/origin3",
+    "mockUrl": "https://query.aliyun.com/rest/componentPush.rules",
+    "proxy": true
+  }
+]

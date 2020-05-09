@@ -1,0 +1,20 @@
+{
+  "name": "mock-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "mock": "./bin/mock.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "node-fetch": "^2.6.0",
+    "ora": "^4.0.4"
+  }
+}
